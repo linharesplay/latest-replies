@@ -1,0 +1,7 @@
+pt_BR:
+  site_settings:
+    latest_replies_enabled: "Habilitar widget de últimos comentários"
+    latest_replies_limit: "Número máximo de comentários"
+    latest_replies_refresh_interval: "Intervalo de atualização (ms)"
+    latest_replies_show_category: "Mostrar categorias"
+    latest_replies_show_tags: "Mostrar tags"

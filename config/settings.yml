@@ -1,0 +1,25 @@
+latest_replies:
+  latest_replies_enabled:
+    client: true
+    default: true
+    description: "Habilitar widget de últimos comentários"
+  latest_replies_limit:
+    client: true
+    default: 15
+    min: 5
+    max: 50
+    description: "Número máximo de comentários a exibir"
+  latest_replies_refresh_interval:
+    client: true
+    default: 30000
+    min: 10000
+    max: 300000
+    description: "Intervalo de atualização em milissegundos"
+  latest_replies_show_category:
+    client: true
+    default: true
+    description: "Mostrar categoria dos tópicos"
+  latest_replies_show_tags:
+    client: true
+    default: true
+    description: "Mostrar tags dos tópicos"

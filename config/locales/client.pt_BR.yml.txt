@@ -1,0 +1,6 @@
+pt_BR:
+  js:
+    latest_replies:
+      title: "Últimos Comentários"
+      loading: "Carregando..."
+      error: "Erro ao carregar comentários"
